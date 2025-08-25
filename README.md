@@ -15,6 +15,9 @@ A comprehensive Flask web application that analyzes GitHub repositories and prov
 
 The application provides a clean, modern interface for analyzing GitHub repositories with comprehensive reporting.
 
+<img width="1270" height="421" alt="image" src="https://github.com/user-attachments/assets/dcbb7f68-53fe-45e1-a09f-6c3363c81348" />
+
+
 ## Installation
 
 ### Prerequisites
