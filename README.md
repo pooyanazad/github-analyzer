@@ -30,8 +30,8 @@ The application provides a clean, modern interface for analyzing GitHub reposito
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
-   cd 20-GitAnalyzer
+   git clone git@github.com:pooyanazad/github-analyzer.git
+   cd github-analyzer
    ```
 
 2. **Create a virtual environment** (recommended):
